@@ -16,24 +16,19 @@
 
  */
 
-h1 {
+
+/* 
+
+colors
+
+*/
+
+h1, h2, h3, h4, h5, h6 
+ {
   background-color: grey;
 }
-h2 {
-  background-color: grey;
-}
-h3 {
-  background-color: grey;
-}
-h4 {
-  background-color: grey;
-}
-h5 {
-  background-color: grey;
-}
-h6 {
-  background-color: grey;
-}
+
+h1 {}
 
 .jumbotron {
 
@@ -43,4 +38,12 @@ h6 {
 
 footer {
   background-color: grey;
+
+
+}
+
+footer li {
+  list-style: none;
+  float: left;
+  max-width: 5%;
 }
