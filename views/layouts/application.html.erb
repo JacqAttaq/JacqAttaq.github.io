@@ -1,9 +1,11 @@
-<doctype HTML>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>JacqAttaqGithubIo</title>
-
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application'%>
+  <%= csrf_meta_tags %>
 
 </head>
 <body>
@@ -11,8 +13,8 @@
 <h3>Ruby on Rails Engineer</h3>
 
 <h4>Jackie Tremblay's portfolio is updated often. Please check back daily to see the progress</h4>
+<%= yield %>
+ 
 
 </body>
-
 </html>
-
