@@ -1,4 +1,16 @@
 
+h1, h2, h3 {
+  background-color: lightblue;
+
+}
+
+body {
+
+  text-align: center;
+  background-color: lightgrey;
+
+}
+
 footer {
   background-color: grey;
 
@@ -8,5 +20,4 @@ footer {
 footer li {
   list-style: none;
   float: left;
-  max-width: 5%;
 }
