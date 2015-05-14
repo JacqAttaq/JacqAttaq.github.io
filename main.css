@@ -1,0 +1,12 @@
+
+footer {
+  background-color: grey;
+
+
+}
+
+footer li {
+  list-style: none;
+  float: left;
+  max-width: 5%;
+}
