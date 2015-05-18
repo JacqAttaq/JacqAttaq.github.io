@@ -19,6 +19,12 @@ body {
   background-color: lightgrey;
 
 }
+
+body li {
+  list-style: none;
+  /*image size, font*/
+
+}
 nav {
   background-color: #fff;
   color: midnightblue ;
