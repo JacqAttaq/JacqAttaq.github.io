@@ -25,10 +25,10 @@ body li {
   /*image size, font*/
 
 }
-body li img {
-  max-width: 50px;
-  max-height: 50px;
 
+body li img {
+  max-width: 150px;
+  max-height: 150px;
 }
 
 nav {
@@ -37,9 +37,11 @@ nav {
 }
 footer {
   background-color: grey;
+  max-height: 100px;
 }
 footer section {
   text-align: center;
+  max-height: 50px;
 }
 
 footer li img {
