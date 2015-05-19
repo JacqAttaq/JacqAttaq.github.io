@@ -17,6 +17,7 @@ body {
 
   text-align: center;
   background-color: lightgrey;
+  max-height: 700px;
 
 }
 
@@ -27,8 +28,8 @@ body li {
 }
 
 body li img {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 350px;
+  max-height: 350px;
 }
 
 nav {
