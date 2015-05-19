@@ -25,19 +25,26 @@ body li {
   /*image size, font*/
 
 }
+body li img {
+  max-width: 50px;
+  max-height: 50px;
+
+}
+
 nav {
   background-color: #fff;
   color: midnightblue ;
 }
 footer {
   background-color: grey;
-
-
 }
 footer section {
   text-align: center;
+}
 
-
+footer li img {
+  max-width: 50px;
+  max-height: 50px;
 }
 footer li {
   list-style: none;
