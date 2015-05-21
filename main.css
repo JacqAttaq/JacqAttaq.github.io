@@ -23,6 +23,8 @@ body {
 
 body li {
   list-style: none;
+  float: left;
+  margin: 5px 5px 5px 5px;
   /*image size, font*/
 
 }
@@ -30,6 +32,7 @@ body li {
 body li img {
   max-width: 500px;
   max-height: 350px;
+
 }
 
 nav {
@@ -46,8 +49,8 @@ footer section {
 }
 
 footer li img {
-  max-width: 50px;
-  max-height: 50px;
+  max-width: 150px;
+  max-height: 150px;
 }
 footer li {
   list-style: none;
