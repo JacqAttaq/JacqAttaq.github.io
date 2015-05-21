@@ -39,7 +39,7 @@ nav {
   background-color: #fff;
   color: midnightblue ;
 }
-footer {
+.footer {
   background-color: grey;
   max-height: 100px;
 }
@@ -49,9 +49,11 @@ footer section {
 }
 
 footer li img {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 200px;
+  max-height: 100px;
+  margin: 10px 15px 10px 15px;
 }
+
 footer li {
   list-style: none;
   float: left;
