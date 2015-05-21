@@ -53,7 +53,7 @@ Create wrapper for whole page and divide into header, content and footer
   margin: 10px 15px 10px 15px;
 }
 
-footer li {
+#footer li {
   list-style: none;
   float: left;
 }
