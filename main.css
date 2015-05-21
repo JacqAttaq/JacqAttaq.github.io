@@ -12,6 +12,11 @@ Create wrapper for whole page and divide into header, content and footer
 
 }
 
+#header nav {
+  background-color: #fff;
+  color: midnightblue ;
+}
+
 
 #content body {
 
@@ -35,10 +40,7 @@ Create wrapper for whole page and divide into header, content and footer
 
 }
 
-#header nav {
-  background-color: #fff;
-  color: midnightblue ;
-}
+
 #footer {
   background-color: grey;
   height: 100px;
