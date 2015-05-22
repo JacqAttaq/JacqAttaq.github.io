@@ -5,6 +5,8 @@ Create wrapper for whole page and divide into header, content and footer
 
 
 #wrapper h1, h2, h3 {
+  min-height: 100%;
+  position: relative;
   background-color: lightblue;
   text-align: left;
   margin: 0 auto;
@@ -44,6 +46,10 @@ Create wrapper for whole page and divide into header, content and footer
 #footer {
   background-color: grey;
   height: 100px;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }
 #footer section {
   text-align: center;
