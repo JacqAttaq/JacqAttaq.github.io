@@ -21,9 +21,7 @@ Create wrapper for whole page and divide into header, content and footer
   color: midnightblue;
 }
 
-#header .selected {
-  background-color: indigo;
-}
+
 
 #content {
 
