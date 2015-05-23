@@ -4,21 +4,26 @@ Create wrapper for whole page and divide into header, content and footer
  */
 
 
-#wrapper h1, h2, h3 {
+#wrapper {
   min-height: 100%;
   position: relative;
-  background-color: lightblue;
-  text-align: left;
+
   margin: 0 auto;
-
-
 }
 
+#header {
+  background-color: lightblue;
+  text-align: left;
+  
+}
 #header nav {
   background-color: #fff;
   color: midnightblue ;
 }
 
+#header .selected {
+  background-color: indigo;
+}
 
 #content {
 
@@ -45,7 +50,7 @@ Create wrapper for whole page and divide into header, content and footer
 
 #footer {
   background-color: grey;
-  height: 100px;
+  height: 175px;
   width: 100%;
   position: absolute;
   bottom: 0;
