@@ -37,6 +37,8 @@ body {
 #header {
   background-color: lightblue;
   text-align: center;
+  top:0;
+  position: absolute;
 }
 
 #header nav {
@@ -68,8 +70,9 @@ body {
 }
 
 #content li img {
-  max-width: 350px;
-  max-height: 350px;
+  max-width: 150px;
+  max-height: 150px;
+  float: left;
 }
 
 #footer {
