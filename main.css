@@ -73,6 +73,7 @@ body {
 #footer {
   background-color: grey;
   bottom: 0;
+  position: absolute;
   text-align: center;
 }
 
