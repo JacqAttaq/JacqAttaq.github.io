@@ -20,8 +20,8 @@ body {
 }
 
 #header img {
-  max-width: 200px;
-  max-height: 100px;
+  max-width: 75px;
+  max-height: 77px;
   margin: 10px 15px 10px 15px;
 }
 
@@ -47,8 +47,6 @@ body {
 
 #footer {
   background-color: grey;
-  height: 200px;
-  position: absolute;
   bottom: 0;
   text-align: center;
 }
