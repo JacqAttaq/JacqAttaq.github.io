@@ -8,7 +8,9 @@ used body instead of wrapper
     width:100%;
     background-color: grey;
 }*/
-
+html {
+  height: 100%;
+}
 #wrapper {
     margin:0 auto;
     width:100%;
