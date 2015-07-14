@@ -7,18 +7,18 @@ Create wrapper for whole page and divide into header, content and footer
 #wrapper {
   min-height: 100%;
   position: relative;
+
   margin: 0 auto;
 }
 
 #header {
   background-color: lightblue;
   text-align: left;
-  top: 0;
-
+  
 }
 #header nav {
   background-color: #fff;
-  color: midnightblue;
+  color: midnightblue ;
 }
 
 
@@ -45,11 +45,6 @@ Create wrapper for whole page and divide into header, content and footer
 
 }
 
-body {
-
-  margin: 0;
-  height: 100%;
-}
 
 #footer {
   background-color: grey;
