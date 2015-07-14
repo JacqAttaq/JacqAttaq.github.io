@@ -18,6 +18,7 @@ a:active - a link the moment it is clicked
 */
 html {
   height: 100%;
+  width: 100%;
 }
 
 body {
