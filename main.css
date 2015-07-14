@@ -25,6 +25,7 @@ body {
   min-height: 100%;
   position: absolute;
   font-family:Helvetica;
+  width: 100%;
 }
 #wrapper {
   
