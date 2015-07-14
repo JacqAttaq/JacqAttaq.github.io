@@ -15,9 +15,10 @@ html {
 
 body {
   min-height: 100%;
+  position: absolute;
 }
 #wrapper {
- 
+  
   width:100%;
   background-color: grey;
   max-height: 100%;
