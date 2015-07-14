@@ -8,20 +8,25 @@ used body instead of wrapper
     width:100%;
     background-color: grey;
 }*/
+
 html {
   height: 100%;
 }
-#wrapper {
-    margin:0 auto;
-    width:100%;
-    min-height: 100%;
-    background-color: grey;
+
+body {
+  min-height: 100%;
 }
+#wrapper {
+  margin:0 auto;
+  width:100%;
+  background-color: grey;
+}
+
 #header {
   background-color: lightblue;
   text-align: center;
-
 }
+
 #header nav {
   background-color: pink;
   color: midnightblue;
