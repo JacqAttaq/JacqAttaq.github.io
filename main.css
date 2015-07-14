@@ -42,7 +42,7 @@ body {
   color: midnightblue;
 }
 
-#header nav a .selected {
+.selected {
   background-color: coral;
 }
 
@@ -68,9 +68,7 @@ body {
 #content li img {
   max-width: 350px;
   max-height: 350px;
-
 }
-
 
 #footer {
   background-color: grey;
@@ -78,14 +76,9 @@ body {
   text-align: center;
 }
 
-
 #footer li img {
   max-width: 200px;
   max-height: 100px;
   margin: 10px 15px 10px 15px;
 }
 
-#footer li {
-  list-style: none;
-  float: left;
-}
