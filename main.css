@@ -1,16 +1,12 @@
 
 /* 
-Create wrapper for whole page and divide into header, content and footer
+used body instead of wrapper
  */
 
-
-#wrapper {
-  min-height: 100%;
-  position: relative;
-
-  margin: 0 auto;
+body {
+    margin:0 auto;
+    width:200px;
 }
-
 #header {
   background-color: lightblue;
   text-align: left;
@@ -20,6 +16,7 @@ Create wrapper for whole page and divide into header, content and footer
   background-color: #fff;
   color: midnightblue ;
 }
+
 
 
 
