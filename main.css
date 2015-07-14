@@ -5,7 +5,7 @@ used body instead of wrapper
 
 body {
     margin:0 auto;
-    width:200px;
+    width:100%;
 }
 #header {
   background-color: lightblue;
