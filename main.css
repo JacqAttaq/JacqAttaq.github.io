@@ -33,6 +33,10 @@ body {
   
   width:100%;
   min-height: 100%;
+ 
+}
+
+#wrapper::after {
   background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
   background-size: cover;
   opacity: 0.4;
@@ -69,9 +73,7 @@ body {
 }
 
 #content {
-  text-align: center;
   min-height: 100%;
-
 }
 
 #content a {
