@@ -65,7 +65,7 @@ body {
 #content li {
   list-style: none;
   float: left;
-  margin: 5px 5px 5px 5px;
+  margin: auto;
   /*image size, font*/
 }
 
