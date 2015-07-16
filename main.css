@@ -44,6 +44,8 @@ body {
 #header nav {
   background-color: pink;
   color: midnightblue;
+  padding-left: 15px;
+  padding-right: 5px;
 }
 
 .selected {
