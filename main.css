@@ -21,9 +21,10 @@ html {
   width: 100%;
   background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
   background-size: cover;
+}
+html img {
   opacity: 0.4;
 }
-
 body {
   min-height: 100%;
   position: absolute;
@@ -69,14 +70,18 @@ body {
 
 #content {
   text-align: center;
-  background-image: url("images/random/boston logo.jpeg");
   min-height: 100%;
+
 }
 
+#content a {
+   font-size: 2.5em;
+}
 #content li {
   list-style: none;
   float: left;
   margin: auto;
+
 
   /*image size, font*/
 }
@@ -92,7 +97,9 @@ body {
     height: 75px;
     margin: 10px;
     border: 3px solid #8AC007; 
+    align-items: center;
 }
+
 #footer {
   background-color: grey;
   bottom: 0;
