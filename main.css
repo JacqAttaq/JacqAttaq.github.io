@@ -30,17 +30,13 @@ body {
 }
 
 #wrapper {
-  
-  width:100%;
-  min-height: 100%;
- 
-}
-
-#wrapper::after {
   background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
   background-size: cover;
-  opacity: 0.4;
+  width:100%;
+  min-height: 100%; 
 }
+
+
 
 #header {
   background-color: lightblue;
@@ -60,6 +56,7 @@ body {
   padding-right: 5px;
   font-size: 3em;
   font-style: normal;
+  text-decoration: none;
 }
 
 .selected {
