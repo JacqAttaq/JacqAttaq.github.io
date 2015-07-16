@@ -19,6 +19,8 @@ a:active - a link the moment it is clicked
 html {
   height: 100%;
   width: 100%;
+  background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
+  background-size: cover;
 
 }
 
@@ -30,8 +32,7 @@ body {
 }
 
 #wrapper {
-  background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
-  background-size: cover;
+
   width:100%;
   min-height: 100%; 
 }
@@ -46,9 +47,8 @@ body {
 }
 
 #header nav {
-  background-color: pink;
-  color: midnightblue;
-
+  background-color: navy;
+  color: crimson;
 }
 
 #header a {
@@ -57,6 +57,7 @@ body {
   font-size: 3em;
   font-style: normal;
   text-decoration: none;
+
 }
 
 .selected {
@@ -77,6 +78,7 @@ body {
 #content a {
   font-size: 2.5em;
   text-decoration: none; 
+  color: red;
 }
 
 #content p {
@@ -89,8 +91,8 @@ body {
 }
 
 #content p img {
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 250px;
+  max-height: 250px;
  
 }
 
