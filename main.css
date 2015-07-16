@@ -40,7 +40,7 @@ body {
 
 
 #header {
-  background-color: lightblue;
+  background-color: navy;
   text-align: center;
   top:0;
 
@@ -96,21 +96,26 @@ body {
  
 }
 
-.floating-box {
+p .floating-box {
     display: inline-block;
+    float: left;
     width: 200px;
     height: 200px;
     margin: 10px;
 }
 
 #footer {
-  background-color: grey;
+  background-color: navy;
+  color: white;
   bottom: 0;
   position: absolute;
   text-align: center;
   width: 100%;
 }
 
+#footer a {
+  color: crimson;
+}
 #footer li img {
   max-width: 200px;
   max-height: 100px;
