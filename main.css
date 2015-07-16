@@ -58,7 +58,7 @@ body {
 
 #content {
   text-align: center;
-  background-color: lightgrey;
+  background-image: url("images/random/boston logo.jpg");
   min-height: 100%;
 }
 
@@ -66,6 +66,7 @@ body {
   list-style: none;
   float: left;
   margin: auto;
+
   /*image size, font*/
 }
 
@@ -75,6 +76,13 @@ body {
  
 }
 
+.floating-box {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #8AC007; 
+}
 #footer {
   background-color: grey;
   bottom: 0;
