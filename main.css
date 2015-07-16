@@ -44,8 +44,13 @@ body {
 #header nav {
   background-color: pink;
   color: midnightblue;
+
+}
+
+#header a {
   padding-left: 15px;
   padding-right: 5px;
+  font-size: 3em;
 }
 
 .selected {
