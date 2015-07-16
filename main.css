@@ -19,6 +19,9 @@ a:active - a link the moment it is clicked
 html {
   height: 100%;
   width: 100%;
+  background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
+  background-size: cover;
+  opacity: 0.4;
 }
 
 body {
@@ -78,11 +81,10 @@ body {
   /*image size, font*/
 }
 
-#content li img {
-  max-width: 150px;
-  max-height: 150px;
+/*#content li img {
+  
  
-}
+}*/
 
 .floating-box {
     display: inline-block;
