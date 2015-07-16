@@ -79,10 +79,10 @@ body {
   text-decoration: none; 
 }
 
-#content li {
-  list-style: none;
+#content p {
   float: left;
   margin: auto;
+  padding: 25px;
 
 
   /*image size, font*/
