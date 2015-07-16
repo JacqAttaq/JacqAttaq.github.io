@@ -22,9 +22,7 @@ html {
   background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
   background-size: cover;
 }
-html img {
-  opacity: 0.4;
-}
+
 body {
   min-height: 100%;
   position: absolute;
@@ -34,7 +32,6 @@ body {
 #wrapper {
   
   width:100%;
-  background-color: grey;
   min-height: 100%;
 }
 
@@ -86,15 +83,16 @@ body {
   /*image size, font*/
 }
 
-/*#content li img {
-  
+#content li img {
+  max-width: 100px;
+  max-height: 100px;
  
-}*/
+}
 
 .floating-box {
     display: inline-block;
-    width: 150px;
-    height: 75px;
+    width: 200px;
+    height: 200px;
     margin: 10px;
     border: 3px solid #8AC007; 
     align-items: center;
