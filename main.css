@@ -16,11 +16,11 @@ a:visited - a link the user has visited
 a:hover - a link when the user mouses over it
 a:active - a link the moment it is clicked
 */
-/*html {
+html {
   height: 100%;
   width: 100%;
-  background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
-}*/
+/*  background: url("images/random/boston logo.jpeg") no-repeat center center fixed; 
+*/}
 
 body {
   min-height: 100%;
@@ -31,7 +31,7 @@ body {
 
 #wrapper {
 
-  width:100%;
+  min-width: 100%;
   min-height: 100%; 
 }
 
