@@ -31,11 +31,11 @@ body {
   width: 100%;
 }
 
-#wrapper {
+/*#wrapper {
 
   width:100%;
   min-height: 100%; 
-}
+}*/
 
 
 
@@ -96,7 +96,7 @@ body {
  
 }
 
-p .floating-box {
+.floating-box {
     display: inline-block;
     float: left;
     width: 200px;
