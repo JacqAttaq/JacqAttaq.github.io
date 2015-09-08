@@ -41,7 +41,7 @@ body {
 #header {
   background-color: navy;
   text-align: center;
-  top:0;
+  top: 0;
   position: absolute;
 
 }
@@ -71,9 +71,10 @@ body {
 }
 
 #content {
-  top: 125px;
+  top: 150px;
   bottom: 75px;
   position: absolute;
+  width: 100%;
 }
 
 #content a {
@@ -86,6 +87,7 @@ body {
   float: left;
   margin: auto;
   padding: 25px;
+  margin-right: 5px;
 
 
   /*image size, font*/
