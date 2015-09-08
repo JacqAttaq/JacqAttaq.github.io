@@ -25,15 +25,15 @@ html {
 body {
   min-height: 100%;
   position: absolute;
-  font-family:Helvetica;
+  font-family: Helvetica;
   width: 100%;
 }
 
-#wrapper {
+/*#wrapper {
 
   min-width: 100%;
   min-height: 100%; 
-}
+}*/
 
 
 
