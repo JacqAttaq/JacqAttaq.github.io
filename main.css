@@ -70,6 +70,7 @@ body {
 }
 
 #content {
+  top: 75px;
   bottom: 75px;
   position: absolute;
 }
