@@ -41,6 +41,7 @@ body {
   background-color: navy;
   text-align: center;
   top:0;
+  position: absolute;
 
 }
 
@@ -71,6 +72,7 @@ body {
 #content {
   min-height: 100%;
   bottom: 75px;
+  position: absolute;
 }
 
 #content a {
@@ -106,7 +108,7 @@ body {
   background-color: navy;
   color: white;
   bottom: 0;
-/*  position: absolute;*/
+  position: absolute;
   text-align: center;
   width: 100%;
 }
