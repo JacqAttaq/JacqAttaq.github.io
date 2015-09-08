@@ -107,8 +107,7 @@ body {
 #footer {
   background-color: navy;
   color: white;
-  bottom: 0;
-
+  bottom: -100%;
   text-align: center;
   width: 100%;
 }
