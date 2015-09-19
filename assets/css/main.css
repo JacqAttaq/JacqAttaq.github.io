@@ -1599,11 +1599,11 @@
 	}
 
 		h2.alt {
-			color: #777;
+			color: #888;
 		}
 
 			h2.alt strong {
-				color: #444;
+				color: #666;
 			}
 
 	h3 {
@@ -2141,7 +2141,7 @@
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: #888;
 					border-color: inherit;
 				}
 
@@ -2162,7 +2162,7 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/FtMoultriePic.jpg");
+				background-image: url("../../images/FtMoultPic.jpg");
 			}
 
 			#main > section.two {
