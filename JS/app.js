@@ -4,5 +4,5 @@ function print(message) {
   document.write(message)
 }
 
-body = "This message is brought to you by javaScript" 
-print(body);
+main = "This message is brought to you by javaScript" 
+print(main);
