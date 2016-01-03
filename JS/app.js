@@ -4,4 +4,5 @@ function print(message) {
   document.write(message)
 }
 
-html = "This message is brought to you by javaScript" print()html;
+html = "This message is brought to you by javaScript" 
+print(html);
